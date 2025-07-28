@@ -1,1 +1,0 @@
-"# examtopics-aws-sap" 
